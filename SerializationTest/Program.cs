@@ -10,6 +10,7 @@ namespace SerializationTest
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
